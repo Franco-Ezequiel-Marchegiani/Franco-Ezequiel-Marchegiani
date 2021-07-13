@@ -1,4 +1,4 @@
-### Hi there 👋, Mi nombre es Franco 
+### Hi there 👋, Mi nombre es Franco Ezequiel
 #### Trabajo como tutor en CoderHouse y soy programador Front-End jr. aspirante a Fullstack
 ![github](https://i.pinimg.com/564x/5f/e7/63/5fe763cae9b0287750d247d0222d0f97.jpg)
 
