@@ -1,5 +1,6 @@
 ### Hi there 👋, Mi nombre es Franco 
 #### Trabajo como tutor en CoderHouse y soy programador Front-End jr. aspirante a Fullstack
+![github](https://i.pinimg.com/564x/5f/e7/63/5fe763cae9b0287750d247d0222d0f97.jpg)
 
 Estudié la carrera de Front-End de Coderhoouse y actualmente me encuentro estudiando la carrera Fullstack de DigitalHouse, me encanta el programar y crear estructuras, páginas nuevas y en mi tiempo libre crear clones de páginas reales, como por ejemplo [Netflix](https://franco-ezequiel-marchegiani.github.io/netflix-clone/)
 
