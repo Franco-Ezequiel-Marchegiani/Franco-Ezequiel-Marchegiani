@@ -1,6 +1,6 @@
 ### Hi there 👋, Mi nombre es Franco Ezequiel
 #### Trabajo como tutor en CoderHouse y soy programador Front-End jr. aspirante a Fullstack
-![github](https://i.pinimg.com/564x/5f/e7/63/5fe763cae9b0287750d247d0222d0f97.jpg)
+![github](https://i.imgur.com/bxbLuX2.gif) 
 
 Estudié la carrera de Front-End de Coderhoouse y actualmente me encuentro estudiando la carrera Fullstack de DigitalHouse, me encanta el programar y crear estructuras, páginas nuevas y en mi tiempo libre crear clones de páginas reales, como por ejemplo [Netflix](https://franco-ezequiel-marchegiani.github.io/netflix-clone/)
 
@@ -14,5 +14,4 @@ Skills: REACT / JS / HTML / CSS / SASS / NODE.JS / GIT & GITHUB
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Franco-Ezequiel-Marchegiani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/franco-ezequiel-marchegiani-7b8712199//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/eze.cavs1)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Franco-Ezequiel-Marchegiani&show_icons=true)  
 
-![github](https://i.imgur.com/bxbLuX2.gif) 
 
