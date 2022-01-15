@@ -2,7 +2,8 @@
 #### Trabajo como tutor en CoderHouse y soy programador Front-End jr. aspirante a Fullstack
 ![github](https://i.imgur.com/bxbLuX2.gif) 
 
-Estudié la carrera de Front-End de Coderhoouse y actualmente me encuentro estudiando la carrera Fullstack de DigitalHouse, me encanta el programar y crear estructuras, páginas nuevas y en mi tiempo libre crear clones de páginas reales, como por ejemplo [Netflix](https://franco-ezequiel-marchegiani.github.io/netflix-clone/)
+Estudié la carrera de Front-End de Coderhoouse y actualmente me encuentro estudiando la carrera Fullstack de DigitalHouse, me encanta el programar y crear estructuras, páginas nuevas y en mi tiempo libre crear clones de páginas reales, como por ejemplo [Netflix](https://franco-ezequiel-marchegiani.github.io/netflix-clone/).
+O también, realizo desafíos en páginas como devChallenges para poner en práctica mis conocimientos y ganar experiencia con proyectos reales e interesantes
 
 Skills: REACT / JS / HTML / CSS / SASS / React.JS / NODE.JS / GIT & GITHUB
 
