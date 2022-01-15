@@ -4,9 +4,9 @@
 
 Estudié la carrera de Front-End de Coderhoouse y actualmente me encuentro estudiando la carrera Fullstack de DigitalHouse, me encanta el programar y crear estructuras, páginas nuevas y en mi tiempo libre crear clones de páginas reales, como por ejemplo [Netflix](https://franco-ezequiel-marchegiani.github.io/netflix-clone/)
 
-Skills: REACT / JS / HTML / CSS / SASS / NODE.JS / GIT & GITHUB
+Skills: REACT / JS / HTML / CSS / SASS / React.JS / NODE.JS / GIT & GITHUB
 
-- 🔭 I’m currently working on Spotify Clone 
+- 🔭 I’m currently working on "Github Jobs" Challenge from devChallenges 
 - 🌱 I’m currently learning Fullstack in DigitalHouse and English Software 
 - 📫 How to reach me: francoezequielmarchegiani2019@gmail.com 
 
