@@ -7,8 +7,8 @@ O también, realizo desafíos en páginas como devChallenges para poner en prác
 
 Skills: REACT / JS / HTML / CSS / SASS / React.JS / NODE.JS / GIT & GITHUB
 
-- 🔭 I’m currently working on "Github Jobs" Challenge from devChallenges 
-- 🌱 I’m currently learning Fullstack in DigitalHouse and English Software 
+- 🔭 I’m currently working on "Quiz App" Challenge from devChallenges 
+- 🌱 I’m currently learning English Software 
 - 📫 How to reach me: francoezequielmarchegiani2019@gmail.com 
 
 
