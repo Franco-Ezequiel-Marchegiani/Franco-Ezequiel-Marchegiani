@@ -26,8 +26,7 @@
 - Personal website [link](https://franco-ezequiel-marchegiani.github.io/portfolio/)
 - I’m currently open for an Intern or a new job opportunity, this is:
 - <p> <a href="https://www.canva.com/design/DAGP6uXnIvE/nt2HhQ47IquOSPni55uARw/view?utm_content=DAGP6uXnIvE&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">my Developer resume</a></p>
-- 
-- [my Developer resume](https://www.canva.com/design/DAGP6uXnIvE/nt2HhQ47IquOSPni55uARw/view?utm_content=DAGP6uXnIvE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 - [my QA Tester resume](https://www.canva.com/design/DAGqBCrpseY/u-HqFs5YjiGqV2L-bU3Yuw/view?utm_content=DAGqBCrpseY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h431cb84771)
 - [my Data Analyst resume](https://www.canva.com/design/DAGqBJvWFyg/QnZ21vCtwKxM4KGyA_eXdw/view?utm_content=DAGqBJvWFyg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd36b26683b)
 
@@ -94,33 +93,14 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
+<div align='center'>
 
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/franco-e-marchegiani/" target="_blank">
+	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="mailto:francoezequielmarchegiani2019@gmail.com" target="_blank">
+	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
 </div>
 
 <br>
@@ -129,21 +109,5 @@
 <br>
 <br>
 
-### Hi there 👋, Mi nombre es Franco Ezequiel
-#### Trabajo como tutor en CoderHouse y soy programador Front-End jr. aspirante a Fullstack
-![github](https://i.imgur.com/bxbLuX2.gif) 
-
-Estudié la carrera de Front-End de Coderhoouse y actualmente me encuentro estudiando la carrera Fullstack de DigitalHouse, me encanta el programar y crear estructuras, páginas nuevas y en mi tiempo libre crear clones de páginas reales, como por ejemplo [Netflix](https://franco-ezequiel-marchegiani.github.io/netflix-clone/).
-O también, realizo desafíos en páginas como devChallenges para poner en práctica mis conocimientos y ganar experiencia con proyectos reales e interesantes
-
-Skills: REACT / JS / HTML / CSS / SASS / React.JS / NODE.JS / GIT & GITHUB
-
-- 🔭 I’m currently working on "Quiz App" Challenge from devChallenges 
-- 🌱 I’m currently learning English Software 
-- 📫 How to reach me: francoezequielmarchegiani2019@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Franco-Ezequiel-Marchegiani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/franco-ezequiel-marchegiani-7b8712199//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/eze.cavs1)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Franco-Ezequiel-Marchegiani&show_icons=true)  
 
 
