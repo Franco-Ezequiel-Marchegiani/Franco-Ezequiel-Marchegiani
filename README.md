@@ -24,11 +24,11 @@
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://franco-ezequiel-marchegiani.github.io/portfolio/)
-- I’m currently open for an Intern or a new job opportunity, this is:
-- <p> <a href="https://www.canva.com/design/DAGP6uXnIvE/nt2HhQ47IquOSPni55uARw/view?utm_content=DAGP6uXnIvE&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">my Developer resume</a></p>
+- I’m currently open for an Intern or a new job opportunity, this is my:
+- <p> <a href="https://www.canva.com/design/DAGP6uXnIvE/nt2HhQ47IquOSPni55uARw/view?utm_content=DAGP6uXnIvE&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Developer resume</a></p>
 
-- [my QA Tester resume](https://www.canva.com/design/DAGqBCrpseY/u-HqFs5YjiGqV2L-bU3Yuw/view?utm_content=DAGqBCrpseY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h431cb84771)
-- [my Data Analyst resume](https://www.canva.com/design/DAGqBJvWFyg/QnZ21vCtwKxM4KGyA_eXdw/view?utm_content=DAGqBJvWFyg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd36b26683b)
+- [QA Tester resume](https://www.canva.com/design/DAGqBCrpseY/u-HqFs5YjiGqV2L-bU3Yuw/view?utm_content=DAGqBCrpseY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h431cb84771)
+- [Data Analyst resume](https://www.canva.com/design/DAGqBJvWFyg/QnZ21vCtwKxM4KGyA_eXdw/view?utm_content=DAGqBJvWFyg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd36b26683b)
 
 <br><br>
 
