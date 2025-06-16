@@ -131,8 +131,6 @@
 	[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 	[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-<br>
-
 </p>
 
 <br>
@@ -152,8 +150,5 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-
 
 
