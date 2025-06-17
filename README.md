@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&pause=1000&width=435&lines=Front+%26+Back+Developer;QA+Tester;Data+Analyst" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&pause=1000&width=435&lines=Full+Stack+Developer;QA+Tester;Data+Analyst" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/Franco-Ezequiel-Marchegiani/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=franco-ezequiel-marchegiani.readme"></a>
