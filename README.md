@@ -14,9 +14,7 @@
   <a href="https://github.com/Franco-Ezequiel-Marchegiani/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=franco-ezequiel-marchegiani.readme"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## 👨🏻‍💻 **About me**
 
 <br>
 
