@@ -21,13 +21,13 @@
 <br>
 
 - A passionate Fullstack developer, with knowledge in QA Tester and Data Analyst
-- Currently studying in the UTN (National Technological University)
-- Personal website [link](https://franco-ezequiel-marchegiani.github.io/portfolio/)
-- I’m currently open for an Intern or a new job opportunity, this is my:
-- <p> <a href="https://www.canva.com/design/DAGP6uXnIvE/nt2HhQ47IquOSPni55uARw/view?utm_content=DAGP6uXnIvE&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Developer resume</a></p>
-
+- Currently studying in the UTN (National Technological University) 
+- Personal website [link](https://franco-ezequiel-marchegiani.github.io/Portfolio2.0/)
+- I’m currently open for an Intern or a new job opportunity, this is my: 
+- <p> <a href="https://www.canva.com/design/DAGzDit07_g/tQgZDehUE8dXuX2owtptCQ/view?utm_content=DAGzDit07_g&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hed0ad270ea" target="_blank">Developer resume</a></p>
+ 
 - [QA Tester resume](https://www.canva.com/design/DAGqBCrpseY/u-HqFs5YjiGqV2L-bU3Yuw/view?utm_content=DAGqBCrpseY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h431cb84771)
-- [Data Analyst resume](https://www.canva.com/design/DAGqBJvWFyg/QnZ21vCtwKxM4KGyA_eXdw/view?utm_content=DAGqBJvWFyg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd36b26683b)
+- [Data Analyst resume](https://www.canva.com/design/DAGzEBDQ3EU/QMFS_AtU8VleiJ-flCexew/view?utm_content=DAGzEBDQ3EU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc609b4bcf5)
 
 <br>
 
